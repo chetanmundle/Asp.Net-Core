@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "JWT_ClearnArchitechture.Controllers.UserController",
+    "Method": "Test",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JWT_ClearnArchitechture.Controllers.UserAccountController",
+    "Method": "Login",
+    "RelativePath": "api/UserAccount/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "App.Core.Models.Api.LoginRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "App.Core.Models.Api.LoginResponseModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
