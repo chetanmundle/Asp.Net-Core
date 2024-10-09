@@ -1,0 +1,117 @@
+2024-09-30 11:57:50.675 +05:30 [INF] Now listening on: https://localhost:7175
+2024-09-30 11:57:50.717 +05:30 [INF] Now listening on: http://localhost:5275
+2024-09-30 11:57:50.719 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-30 11:57:50.720 +05:30 [INF] Hosting environment: Development
+2024-09-30 11:57:50.721 +05:30 [INF] Content root path: D:\Practice\ExampleWebApp\ExampleWebApp
+2024-09-30 11:57:53.926 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/swagger - null null
+2024-09-30 11:57:54.253 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/swagger - 301 0 null 333.1988ms
+2024-09-30 11:57:54.290 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/swagger/index.html - null null
+2024-09-30 11:57:54.479 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/swagger/swagger-ui.css - null null
+2024-09-30 11:57:54.493 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/swagger/swagger-ui-bundle.js - null null
+2024-09-30 11:57:54.493 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/swagger/swagger-ui-standalone-preset.js - null null
+2024-09-30 11:57:54.510 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/swagger/index.html - 200 null text/html;charset=utf-8 219.5117ms
+2024-09-30 11:57:54.514 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/_vs/browserLink - null null
+2024-09-30 11:57:54.518 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-30 11:57:54.566 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 55.1813ms
+2024-09-30 11:57:54.605 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-09-30 11:57:54.613 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/swagger/swagger-ui.css - 200 143943 text/css 134.1863ms
+2024-09-30 11:57:54.631 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-09-30 11:57:54.644 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/swagger/swagger-ui-standalone-preset.js - 200 339486 text/javascript 164.0653ms
+2024-09-30 11:57:54.699 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-09-30 11:57:54.701 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/swagger/swagger-ui-bundle.js - 200 1096145 text/javascript 221.6474ms
+2024-09-30 11:57:54.707 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/_vs/browserLink - 200 null text/javascript; charset=UTF-8 191.9906ms
+2024-09-30 11:57:54.959 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/swagger/v1/swagger.json - null null
+2024-09-30 11:57:55.024 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/swagger/favicon-32x32.png - null null
+2024-09-30 11:57:55.034 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-09-30 11:57:55.036 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/swagger/favicon-32x32.png - 200 628 image/png 11.9191ms
+2024-09-30 11:57:55.153 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 194.3594ms
+2024-09-30 11:58:09.077 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/api/StudentsCQRS - null null
+2024-09-30 11:58:09.086 +05:30 [INF] Executing endpoint 'ExampleWebApp.Controllers.StudentsCQRSController.Get (ExampleWebApp)'
+2024-09-30 11:58:09.113 +05:30 [INF] Route matched with {action = "Get", controller = "StudentsCQRS"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get() on controller ExampleWebApp.Controllers.StudentsCQRSController (ExampleWebApp).
+2024-09-30 11:58:09.120 +05:30 [INF] Get Method
+2024-09-30 11:58:10.630 +05:30 [INF] Executed DbCommand (41ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[StudentId], [s].[DateOfBith], [s].[FirstName], [s].[LastName]
+FROM [Student] AS [s]
+2024-09-30 11:58:10.742 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[App.Core.Models.StudentDto, App.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-09-30 11:58:10.758 +05:30 [INF] Executed action ExampleWebApp.Controllers.StudentsCQRSController.Get (ExampleWebApp) in 1637.5995ms
+2024-09-30 11:58:10.759 +05:30 [INF] Executed endpoint 'ExampleWebApp.Controllers.StudentsCQRSController.Get (ExampleWebApp)'
+2024-09-30 11:58:10.769 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/api/StudentsCQRS - 200 null application/json; charset=utf-8 1691.934ms
+2024-09-30 12:47:25.625 +05:30 [INF] Now listening on: https://localhost:7175
+2024-09-30 12:47:25.671 +05:30 [INF] Now listening on: http://localhost:5275
+2024-09-30 12:47:25.674 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-30 12:47:25.675 +05:30 [INF] Hosting environment: Development
+2024-09-30 12:47:25.676 +05:30 [INF] Content root path: D:\Practice\ExampleWebApp\ExampleWebApp
+2024-09-30 12:47:28.765 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/swagger/index.html - null null
+2024-09-30 12:47:29.460 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-30 12:47:29.465 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/swagger/index.html - 200 null text/html;charset=utf-8 700.5627ms
+2024-09-30 12:47:29.545 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/_vs/browserLink - null null
+2024-09-30 12:47:29.560 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 87.0186ms
+2024-09-30 12:47:29.776 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/_vs/browserLink - 200 null text/javascript; charset=UTF-8 274.7592ms
+2024-09-30 12:47:29.914 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/swagger/v1/swagger.json - null null
+2024-09-30 12:47:30.108 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 193.8966ms
+2024-09-30 12:52:14.993 +05:30 [INF] Now listening on: https://localhost:7175
+2024-09-30 12:52:15.027 +05:30 [INF] Now listening on: http://localhost:5275
+2024-09-30 12:52:15.030 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-30 12:52:15.030 +05:30 [INF] Hosting environment: Development
+2024-09-30 12:52:15.031 +05:30 [INF] Content root path: D:\Practice\ExampleWebApp\ExampleWebApp
+2024-09-30 12:52:16.430 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/swagger/index.html - null null
+2024-09-30 12:52:16.728 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-30 12:52:16.734 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/swagger/index.html - 200 null text/html;charset=utf-8 308.5055ms
+2024-09-30 12:52:16.744 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/_vs/browserLink - null null
+2024-09-30 12:52:16.748 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 19.0052ms
+2024-09-30 12:52:16.789 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/_vs/browserLink - 200 null text/javascript; charset=UTF-8 45.0623ms
+2024-09-30 12:52:16.852 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/swagger/v1/swagger.json - null null
+2024-09-30 12:52:16.966 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 114.486ms
+2024-09-30 12:52:21.664 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/api/StudentsCQRS/ExceptionTest - null null
+2024-09-30 12:52:21.672 +05:30 [INF] Executing endpoint 'ExampleWebApp.Controllers.StudentsCQRSController.ExceptionTest (ExampleWebApp)'
+2024-09-30 12:52:21.698 +05:30 [INF] Route matched with {action = "ExceptionTest", controller = "StudentsCQRS"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ExceptionTest() on controller ExampleWebApp.Controllers.StudentsCQRSController (ExampleWebApp).
+2024-09-30 12:52:21.860 +05:30 [ERR]    at ExampleWebApp.Controllers.StudentsCQRSController.ExceptionTest() in D:\Practice\ExampleWebApp\ExampleWebApp\Controllers\StudentsCQRSController.cs:line 47
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+System.Exception: Test
+   at ExampleWebApp.Controllers.StudentsCQRSController.ExceptionTest() in D:\Practice\ExampleWebApp\ExampleWebApp\Controllers\StudentsCQRSController.cs:line 47
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2024-09-30 12:52:21.869 +05:30 [INF] Executing JsonResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-09-30 12:52:21.882 +05:30 [INF] Executed action ExampleWebApp.Controllers.StudentsCQRSController.ExceptionTest (ExampleWebApp) in 178.5871ms
+2024-09-30 12:52:21.884 +05:30 [INF] Executed endpoint 'ExampleWebApp.Controllers.StudentsCQRSController.ExceptionTest (ExampleWebApp)'
+2024-09-30 12:52:21.885 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/api/StudentsCQRS/ExceptionTest - 500 null application/json; charset=utf-8 221.4358ms
+2024-09-30 12:52:32.807 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7175/api/StudentsCQRS/ValidationTest - application/json 40
+2024-09-30 12:52:32.812 +05:30 [INF] Executing endpoint 'ExampleWebApp.Controllers.StudentsCQRSController.ValidationTest (ExampleWebApp)'
+2024-09-30 12:52:32.822 +05:30 [INF] Route matched with {action = "ValidationTest", controller = "StudentsCQRS"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Boolean] ValidationTest(ExampleWebApp.Models.TestModelDto) on controller ExampleWebApp.Controllers.StudentsCQRSController (ExampleWebApp).
+2024-09-30 12:52:32.911 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Boolean'.
+2024-09-30 12:52:32.919 +05:30 [INF] Executed action ExampleWebApp.Controllers.StudentsCQRSController.ValidationTest (ExampleWebApp) in 93.8225ms
+2024-09-30 12:52:32.921 +05:30 [INF] Executed endpoint 'ExampleWebApp.Controllers.StudentsCQRSController.ValidationTest (ExampleWebApp)'
+2024-09-30 12:52:32.922 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7175/api/StudentsCQRS/ValidationTest - 200 null application/json; charset=utf-8 115.7007ms
+2024-09-30 12:53:59.408 +05:30 [INF] Now listening on: https://localhost:7175
+2024-09-30 12:53:59.445 +05:30 [INF] Now listening on: http://localhost:5275
+2024-09-30 12:53:59.448 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-30 12:53:59.449 +05:30 [INF] Hosting environment: Development
+2024-09-30 12:53:59.449 +05:30 [INF] Content root path: D:\Practice\ExampleWebApp\ExampleWebApp
+2024-09-30 12:54:03.307 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/swagger/index.html - null null
+2024-09-30 12:54:03.599 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/swagger/index.html - 200 null text/html;charset=utf-8 299.6271ms
+2024-09-30 12:54:03.619 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/_vs/browserLink - null null
+2024-09-30 12:54:03.619 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-30 12:54:03.635 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 16.0982ms
+2024-09-30 12:54:03.664 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/_vs/browserLink - 200 null text/javascript; charset=UTF-8 45.9531ms
+2024-09-30 12:54:03.711 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7175/swagger/v1/swagger.json - null null
+2024-09-30 12:54:03.834 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7175/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 123.1805ms
+2024-09-30 12:54:08.292 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7175/api/StudentsCQRS/ValidationTest - application/json 40
+2024-09-30 12:54:08.304 +05:30 [INF] Executing endpoint 'ExampleWebApp.Controllers.StudentsCQRSController.ValidationTest (ExampleWebApp)'
+2024-09-30 12:54:08.329 +05:30 [INF] Route matched with {action = "ValidationTest", controller = "StudentsCQRS"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ValidationTest(ExampleWebApp.Models.TestModelDto) on controller ExampleWebApp.Controllers.StudentsCQRSController (ExampleWebApp).
+2024-09-30 12:54:08.406 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-09-30 12:54:08.412 +05:30 [INF] Executed action ExampleWebApp.Controllers.StudentsCQRSController.ValidationTest (ExampleWebApp) in 77.4912ms
+2024-09-30 12:54:08.414 +05:30 [INF] Executed endpoint 'ExampleWebApp.Controllers.StudentsCQRSController.ValidationTest (ExampleWebApp)'
+2024-09-30 12:54:08.416 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7175/api/StudentsCQRS/ValidationTest - 400 null text/plain; charset=utf-8 123.5724ms

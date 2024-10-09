@@ -1,0 +1,15 @@
+D:\Practice\ExampleWebApp\App.Core\bin\Debug\net8.0\App.Core.deps.json
+D:\Practice\ExampleWebApp\App.Core\bin\Debug\net8.0\App.Core.dll
+D:\Practice\ExampleWebApp\App.Core\bin\Debug\net8.0\App.Core.pdb
+D:\Practice\ExampleWebApp\App.Core\bin\Debug\net8.0\Domain.dll
+D:\Practice\ExampleWebApp\App.Core\bin\Debug\net8.0\Domain.pdb
+D:\Practice\ExampleWebApp\App.Core\obj\Debug\net8.0\App.Core.csproj.AssemblyReference.cache
+D:\Practice\ExampleWebApp\App.Core\obj\Debug\net8.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\ExampleWebApp\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfoInputs.cache
+D:\Practice\ExampleWebApp\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfo.cs
+D:\Practice\ExampleWebApp\App.Core\obj\Debug\net8.0\App.Core.csproj.CoreCompileInputs.cache
+D:\Practice\ExampleWebApp\App.Core\obj\Debug\net8.0\App.Core.csproj.CopyComplete
+D:\Practice\ExampleWebApp\App.Core\obj\Debug\net8.0\App.Core.dll
+D:\Practice\ExampleWebApp\App.Core\obj\Debug\net8.0\refint\App.Core.dll
+D:\Practice\ExampleWebApp\App.Core\obj\Debug\net8.0\App.Core.pdb
+D:\Practice\ExampleWebApp\App.Core\obj\Debug\net8.0\ref\App.Core.dll
