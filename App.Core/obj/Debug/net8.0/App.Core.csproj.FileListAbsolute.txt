@@ -1,0 +1,30 @@
+D:\Assessment\MadiatRcleanArchi_Assessment3\App.Core\bin\Debug\net8.0\App.Core.deps.json
+D:\Assessment\MadiatRcleanArchi_Assessment3\App.Core\bin\Debug\net8.0\App.Core.dll
+D:\Assessment\MadiatRcleanArchi_Assessment3\App.Core\bin\Debug\net8.0\App.Core.pdb
+D:\Assessment\MadiatRcleanArchi_Assessment3\App.Core\obj\Debug\net8.0\App.Core.csproj.AssemblyReference.cache
+D:\Assessment\MadiatRcleanArchi_Assessment3\App.Core\obj\Debug\net8.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assessment\MadiatRcleanArchi_Assessment3\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfoInputs.cache
+D:\Assessment\MadiatRcleanArchi_Assessment3\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfo.cs
+D:\Assessment\MadiatRcleanArchi_Assessment3\App.Core\obj\Debug\net8.0\App.Core.csproj.CoreCompileInputs.cache
+D:\Assessment\MadiatRcleanArchi_Assessment3\App.Core\obj\Debug\net8.0\App.Core.dll
+D:\Assessment\MadiatRcleanArchi_Assessment3\App.Core\obj\Debug\net8.0\refint\App.Core.dll
+D:\Assessment\MadiatRcleanArchi_Assessment3\App.Core\obj\Debug\net8.0\App.Core.pdb
+D:\Assessment\MadiatRcleanArchi_Assessment3\App.Core\obj\Debug\net8.0\ref\App.Core.dll
+D:\Assessment\MadiatRcleanArchi_Assessment3\App.Core\bin\Debug\net8.0\Domain.dll
+D:\Assessment\MadiatRcleanArchi_Assessment3\App.Core\bin\Debug\net8.0\Domain.pdb
+D:\Assessment\MadiatRcleanArchi_Assessment3\App.Core\obj\Debug\net8.0\App.Core.csproj.Up2Date
+D:\Visual Studio\Asp.NetCore\MadiatRcleanArchi_Assessment3\MadiatRcleanArchi_Assessment3\App.Core\bin\Debug\net8.0\App.Core.deps.json
+D:\Visual Studio\Asp.NetCore\MadiatRcleanArchi_Assessment3\MadiatRcleanArchi_Assessment3\App.Core\bin\Debug\net8.0\App.Core.dll
+D:\Visual Studio\Asp.NetCore\MadiatRcleanArchi_Assessment3\MadiatRcleanArchi_Assessment3\App.Core\bin\Debug\net8.0\App.Core.pdb
+D:\Visual Studio\Asp.NetCore\MadiatRcleanArchi_Assessment3\MadiatRcleanArchi_Assessment3\App.Core\bin\Debug\net8.0\Domain.dll
+D:\Visual Studio\Asp.NetCore\MadiatRcleanArchi_Assessment3\MadiatRcleanArchi_Assessment3\App.Core\bin\Debug\net8.0\Domain.pdb
+D:\Visual Studio\Asp.NetCore\MadiatRcleanArchi_Assessment3\MadiatRcleanArchi_Assessment3\App.Core\obj\Debug\net8.0\App.Core.csproj.AssemblyReference.cache
+D:\Visual Studio\Asp.NetCore\MadiatRcleanArchi_Assessment3\MadiatRcleanArchi_Assessment3\App.Core\obj\Debug\net8.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Asp.NetCore\MadiatRcleanArchi_Assessment3\MadiatRcleanArchi_Assessment3\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfoInputs.cache
+D:\Visual Studio\Asp.NetCore\MadiatRcleanArchi_Assessment3\MadiatRcleanArchi_Assessment3\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfo.cs
+D:\Visual Studio\Asp.NetCore\MadiatRcleanArchi_Assessment3\MadiatRcleanArchi_Assessment3\App.Core\obj\Debug\net8.0\App.Core.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Asp.NetCore\MadiatRcleanArchi_Assessment3\MadiatRcleanArchi_Assessment3\App.Core\obj\Debug\net8.0\App.Core.csproj.Up2Date
+D:\Visual Studio\Asp.NetCore\MadiatRcleanArchi_Assessment3\MadiatRcleanArchi_Assessment3\App.Core\obj\Debug\net8.0\App.Core.dll
+D:\Visual Studio\Asp.NetCore\MadiatRcleanArchi_Assessment3\MadiatRcleanArchi_Assessment3\App.Core\obj\Debug\net8.0\refint\App.Core.dll
+D:\Visual Studio\Asp.NetCore\MadiatRcleanArchi_Assessment3\MadiatRcleanArchi_Assessment3\App.Core\obj\Debug\net8.0\App.Core.pdb
+D:\Visual Studio\Asp.NetCore\MadiatRcleanArchi_Assessment3\MadiatRcleanArchi_Assessment3\App.Core\obj\Debug\net8.0\ref\App.Core.dll

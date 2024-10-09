@@ -1,0 +1,6 @@
+@MadiatRcleanArchi_Assessment3_HostAddress = http://localhost:5157
+
+GET {{MadiatRcleanArchi_Assessment3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

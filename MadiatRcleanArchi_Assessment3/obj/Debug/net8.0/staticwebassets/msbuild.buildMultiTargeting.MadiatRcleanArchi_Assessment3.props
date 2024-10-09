@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MadiatRcleanArchi_Assessment3.props" />
+</Project>
