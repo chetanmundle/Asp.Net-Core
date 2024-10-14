@@ -1,0 +1,15 @@
+D:\ASPDotNet\StoredProcedureCall\App.Core\bin\Debug\net8.0\App.Core.deps.json
+D:\ASPDotNet\StoredProcedureCall\App.Core\bin\Debug\net8.0\App.Core.dll
+D:\ASPDotNet\StoredProcedureCall\App.Core\bin\Debug\net8.0\App.Core.pdb
+D:\ASPDotNet\StoredProcedureCall\App.Core\obj\Debug\net8.0\App.Core.csproj.AssemblyReference.cache
+D:\ASPDotNet\StoredProcedureCall\App.Core\obj\Debug\net8.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPDotNet\StoredProcedureCall\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfoInputs.cache
+D:\ASPDotNet\StoredProcedureCall\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfo.cs
+D:\ASPDotNet\StoredProcedureCall\App.Core\obj\Debug\net8.0\App.Core.csproj.CoreCompileInputs.cache
+D:\ASPDotNet\StoredProcedureCall\App.Core\obj\Debug\net8.0\App.Core.dll
+D:\ASPDotNet\StoredProcedureCall\App.Core\obj\Debug\net8.0\refint\App.Core.dll
+D:\ASPDotNet\StoredProcedureCall\App.Core\obj\Debug\net8.0\App.Core.pdb
+D:\ASPDotNet\StoredProcedureCall\App.Core\obj\Debug\net8.0\ref\App.Core.dll
+D:\ASPDotNet\StoredProcedureCall\App.Core\bin\Debug\net8.0\Domain.dll
+D:\ASPDotNet\StoredProcedureCall\App.Core\bin\Debug\net8.0\Domain.pdb
+D:\ASPDotNet\StoredProcedureCall\App.Core\obj\Debug\net8.0\App.Core.csproj.Up2Date

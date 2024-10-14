@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F8gDI/J5IPn7k5V1GK8tv91BtT3G64yiU2/WO0X+Uno=",
+  "Source": "StoredProcedureCall",
+  "BasePath": "_content/StoredProcedureCall",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
