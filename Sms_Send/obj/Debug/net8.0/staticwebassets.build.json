@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Am13hZyhTfiAykyIYlfRTSUShC3V/EFQN65J+adj9RA=",
+  "Source": "Sms_Send",
+  "BasePath": "_content/Sms_Send",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sms_Send.props" />
+</Project>

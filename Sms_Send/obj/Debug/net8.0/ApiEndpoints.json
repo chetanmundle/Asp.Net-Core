@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Sms_Send.Controllers.SendSmsController",
+    "Method": "send",
+    "RelativePath": "api/SendSms",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Sms_Send.Models.PhoneMessageDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sms_Send.Controllers.SendSmsController",
+    "Method": "AddNumberAsync",
+    "RelativePath": "api/SendSms/AddPhoneNumber",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Sms_Send.Models.PhoneNameDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
