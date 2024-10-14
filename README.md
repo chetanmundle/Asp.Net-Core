@@ -1,0 +1,1 @@
+This Project is Practice for CQRS Pattern Architechture

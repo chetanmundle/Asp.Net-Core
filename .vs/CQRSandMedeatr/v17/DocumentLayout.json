@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASPDotNet\\CQRS\\CQRSandMedeatr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A7D899-B07D-42CE-BE37-A4E3D7875D6A}|App.Core\\App.Core.csproj|d:\\aspdotnet\\cqrs\\cqrsandmedeatr\\app.core\\app\\student\\command\\createstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A7D899-B07D-42CE-BE37-A4E3D7875D6A}|App.Core\\App.Core.csproj|solutionrelative:app.core\\app\\student\\command\\createstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A7D899-B07D-42CE-BE37-A4E3D7875D6A}|App.Core\\App.Core.csproj|d:\\aspdotnet\\cqrs\\cqrsandmedeatr\\app.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A7D899-B07D-42CE-BE37-A4E3D7875D6A}|App.Core\\App.Core.csproj|solutionrelative:app.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18956F68-7603-4F22-BCB7-DFF109410F24}|CQRSandMedeatr\\CQRSandMedeatr.csproj|d:\\aspdotnet\\cqrs\\cqrsandmedeatr\\cqrsandmedeatr\\controllers\\studentscqrscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18956F68-7603-4F22-BCB7-DFF109410F24}|CQRSandMedeatr\\CQRSandMedeatr.csproj|solutionrelative:cqrsandmedeatr\\controllers\\studentscqrscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED9AC9B-603D-4548-8A62-65427D29AC8C}|Infrastructure\\Infrastructure.csproj|d:\\aspdotnet\\cqrs\\cqrsandmedeatr\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED9AC9B-603D-4548-8A62-65427D29AC8C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18956F68-7603-4F22-BCB7-DFF109410F24}|CQRSandMedeatr\\CQRSandMedeatr.csproj|d:\\aspdotnet\\cqrs\\cqrsandmedeatr\\cqrsandmedeatr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18956F68-7603-4F22-BCB7-DFF109410F24}|CQRSandMedeatr\\CQRSandMedeatr.csproj|solutionrelative:cqrsandmedeatr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A7D899-B07D-42CE-BE37-A4E3D7875D6A}|App.Core\\App.Core.csproj|d:\\aspdotnet\\cqrs\\cqrsandmedeatr\\app.core\\interfaces\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A7D899-B07D-42CE-BE37-A4E3D7875D6A}|App.Core\\App.Core.csproj|solutionrelative:app.core\\interfaces\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED9AC9B-603D-4548-8A62-65427D29AC8C}|Infrastructure\\Infrastructure.csproj|d:\\aspdotnet\\cqrs\\cqrsandmedeatr\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED9AC9B-603D-4548-8A62-65427D29AC8C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18956F68-7603-4F22-BCB7-DFF109410F24}|CQRSandMedeatr\\CQRSandMedeatr.csproj|d:\\aspdotnet\\cqrs\\cqrsandmedeatr\\cqrsandmedeatr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18956F68-7603-4F22-BCB7-DFF109410F24}|CQRSandMedeatr\\CQRSandMedeatr.csproj|solutionrelative:cqrsandmedeatr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\CQRS\\CQRSandMedeatr\\App.Core\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "App.Core\\DependencyInjection.cs",
+              "ToolTip": "D:\\ASPDotNet\\CQRS\\CQRSandMedeatr\\App.Core\\DependencyInjection.cs",
+              "RelativeToolTip": "App.Core\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:08:09.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAppDbContext.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\CQRS\\CQRSandMedeatr\\App.Core\\Interfaces\\IAppDbContext.cs",
+              "RelativeDocumentMoniker": "App.Core\\Interfaces\\IAppDbContext.cs",
+              "ToolTip": "D:\\ASPDotNet\\CQRS\\CQRSandMedeatr\\App.Core\\Interfaces\\IAppDbContext.cs",
+              "RelativeToolTip": "App.Core\\Interfaces\\IAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:27:46.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateStudentCommand.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\CQRS\\CQRSandMedeatr\\App.Core\\App\\Student\\Command\\CreateStudentCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\App\\Student\\Command\\CreateStudentCommand.cs",
+              "ToolTip": "D:\\ASPDotNet\\CQRS\\CQRSandMedeatr\\App.Core\\App\\Student\\Command\\CreateStudentCommand.cs",
+              "RelativeToolTip": "App.Core\\App\\Student\\Command\\CreateStudentCommand.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:01:41.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\CQRS\\CQRSandMedeatr\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\ASPDotNet\\CQRS\\CQRSandMedeatr\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIAwwBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:41:34.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\CQRS\\CQRSandMedeatr\\CQRSandMedeatr\\Program.cs",
+              "RelativeDocumentMoniker": "CQRSandMedeatr\\Program.cs",
+              "ToolTip": "D:\\ASPDotNet\\CQRS\\CQRSandMedeatr\\CQRSandMedeatr\\Program.cs",
+              "RelativeToolTip": "CQRSandMedeatr\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:41:31.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsCQRSController.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\CQRS\\CQRSandMedeatr\\CQRSandMedeatr\\Controllers\\StudentsCQRSController.cs",
+              "RelativeDocumentMoniker": "CQRSandMedeatr\\Controllers\\StudentsCQRSController.cs",
+              "ToolTip": "D:\\ASPDotNet\\CQRS\\CQRSandMedeatr\\CQRSandMedeatr\\Controllers\\StudentsCQRSController.cs",
+              "RelativeToolTip": "CQRSandMedeatr\\Controllers\\StudentsCQRSController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:46:37.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\CQRS\\CQRSandMedeatr\\Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AppDbContext.cs",
+              "ToolTip": "D:\\ASPDotNet\\CQRS\\CQRSandMedeatr\\Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:24:20.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASPDotNet\\CQRS\\CQRSandMedeatr\\CQRSandMedeatr\\appsettings.json",
+              "RelativeDocumentMoniker": "CQRSandMedeatr\\appsettings.json",
+              "ToolTip": "D:\\ASPDotNet\\CQRS\\CQRSandMedeatr\\CQRSandMedeatr\\appsettings.json",
+              "RelativeToolTip": "CQRSandMedeatr\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T11:14:40.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

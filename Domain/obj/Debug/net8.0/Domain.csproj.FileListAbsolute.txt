@@ -1,0 +1,11 @@
+D:\ASPDotNet\CQRS\CQRSandMedeatr\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\ASPDotNet\CQRS\CQRSandMedeatr\Domain\bin\Debug\net8.0\Domain.dll
+D:\ASPDotNet\CQRS\CQRSandMedeatr\Domain\bin\Debug\net8.0\Domain.pdb
+D:\ASPDotNet\CQRS\CQRSandMedeatr\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPDotNet\CQRS\CQRSandMedeatr\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\ASPDotNet\CQRS\CQRSandMedeatr\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\ASPDotNet\CQRS\CQRSandMedeatr\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\ASPDotNet\CQRS\CQRSandMedeatr\Domain\obj\Debug\net8.0\Domain.dll
+D:\ASPDotNet\CQRS\CQRSandMedeatr\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\ASPDotNet\CQRS\CQRSandMedeatr\Domain\obj\Debug\net8.0\Domain.pdb
+D:\ASPDotNet\CQRS\CQRSandMedeatr\Domain\obj\Debug\net8.0\ref\Domain.dll

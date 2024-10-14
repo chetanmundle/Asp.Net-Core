@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "CQRSandMedeatr.Controllers.StudentsCQRSController",
+    "Method": "Post",
+    "RelativePath": "api/StudentsCQRS",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "App.Core.Models.StudentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CQRSandMedeatr.Controllers.StudentsCQRSController",
+    "Method": "Get",
+    "RelativePath": "api/StudentsCQRS",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
