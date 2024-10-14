@@ -1,0 +1,34 @@
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Infrastructure\bin\Debug\net8.0\App.Core.dll
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Infrastructure\bin\Debug\net8.0\App.Core.pdb
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Infrastructure\bin\Debug\net8.0\App.Core.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Infrastructure\bin\Debug\net8.0\App.Core.pdb
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

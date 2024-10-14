@@ -1,0 +1,22 @@
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Domain\bin\Debug\net8.0\Domain.dll
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Domain\bin\Debug\net8.0\Domain.pdb
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Domain\obj\Debug\net8.0\Domain.dll
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Domain\obj\Debug\net8.0\Domain.pdb
+D:\ASPDotNet\Email_Sender_UsingSendGrid\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Domain\bin\Debug\net8.0\Domain.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Domain\obj\Debug\net8.0\Domain.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\Domain\obj\Debug\net8.0\ref\Domain.dll

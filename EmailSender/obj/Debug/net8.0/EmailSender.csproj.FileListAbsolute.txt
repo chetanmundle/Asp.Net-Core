@@ -1,0 +1,82 @@
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\appsettings.Development.json
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\appsettings.json
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\EmailSender.exe
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\EmailSender.deps.json
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\EmailSender.runtimeconfig.json
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\EmailSender.dll
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\EmailSender.pdb
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\SendGrid.dll
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\StarkbankEcdsa.dll
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\App.Core.dll
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\Domain.dll
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\Infrastructure.dll
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\App.Core.pdb
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\Infrastructure.pdb
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\Domain.pdb
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\EmailSender.csproj.AssemblyReference.cache
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\EmailSender.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\EmailSender.AssemblyInfoInputs.cache
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\EmailSender.AssemblyInfo.cs
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\EmailSender.csproj.CoreCompileInputs.cache
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\EmailSender.MvcApplicationPartsAssemblyInfo.cs
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\EmailSender.MvcApplicationPartsAssemblyInfo.cache
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\staticwebassets.development.json
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\staticwebassets\msbuild.EmailSender.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\staticwebassets\msbuild.build.EmailSender.props
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmailSender.props
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmailSender.props
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\scopedcss\bundle\EmailSender.styles.css
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\EmailSen.AE69708F.Up2Date
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\EmailSender.dll
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\refint\EmailSender.dll
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\EmailSender.pdb
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\EmailSender.genruntimeconfig.cache
+D:\ASPDotNet\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\ref\EmailSender.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\appsettings.Development.json
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\appsettings.json
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\EmailSender.exe
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\EmailSender.deps.json
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\EmailSender.runtimeconfig.json
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\EmailSender.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\EmailSender.pdb
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\SendGrid.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\StarkbankEcdsa.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\App.Core.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\Domain.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\Infrastructure.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\App.Core.pdb
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\Infrastructure.pdb
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\bin\Debug\net8.0\Domain.pdb
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\EmailSender.csproj.AssemblyReference.cache
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\EmailSender.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\EmailSender.AssemblyInfoInputs.cache
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\EmailSender.AssemblyInfo.cs
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\EmailSender.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\EmailSender.MvcApplicationPartsAssemblyInfo.cs
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\EmailSender.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\staticwebassets.build.json
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\staticwebassets.development.json
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\staticwebassets\msbuild.EmailSender.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\staticwebassets\msbuild.build.EmailSender.props
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmailSender.props
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmailSender.props
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\scopedcss\bundle\EmailSender.styles.css
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\EmailSen.AE69708F.Up2Date
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\EmailSender.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\refint\EmailSender.dll
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\EmailSender.pdb
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\EmailSender.genruntimeconfig.cache
+D:\Visual Studio\Asp.NetCore\Email_Sender_UsingSendGrid\Email_Sender_UsingSendGrid\EmailSender\obj\Debug\net8.0\ref\EmailSender.dll
