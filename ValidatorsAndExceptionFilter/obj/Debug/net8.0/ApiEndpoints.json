@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ValidatorsAndExceptionFilter.Controllers.EmployeeController",
+    "Method": "CreateStudent",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentDto",
+        "Type": "App.Core.Models.StudentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ValidatorsAndExceptionFilter.Controllers.EmployeeController",
+    "Method": "ExceptionTest",
+    "RelativePath": "api/Employee/ExceptionTest",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

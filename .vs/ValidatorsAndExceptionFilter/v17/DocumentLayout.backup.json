@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chetanmundle\\source\\repos\\ValidatorsAndExceptionFilter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD1481D-F791-4D04-A741-80CD86D33D54}|ValidatorsAndExceptionFilter\\ValidatorsAndExceptionFilter.csproj|c:\\users\\chetanmundle\\source\\repos\\validatorsandexceptionfilter\\validatorsandexceptionfilter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCD1481D-F791-4D04-A741-80CD86D33D54}|ValidatorsAndExceptionFilter\\ValidatorsAndExceptionFilter.csproj|solutionrelative:validatorsandexceptionfilter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD1481D-F791-4D04-A741-80CD86D33D54}|ValidatorsAndExceptionFilter\\ValidatorsAndExceptionFilter.csproj|c:\\users\\chetanmundle\\source\\repos\\validatorsandexceptionfilter\\validatorsandexceptionfilter\\filters\\appexceptionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD1481D-F791-4D04-A741-80CD86D33D54}|ValidatorsAndExceptionFilter\\ValidatorsAndExceptionFilter.csproj|solutionrelative:validatorsandexceptionfilter\\filters\\appexceptionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD1481D-F791-4D04-A741-80CD86D33D54}|ValidatorsAndExceptionFilter\\ValidatorsAndExceptionFilter.csproj|c:\\users\\chetanmundle\\source\\repos\\validatorsandexceptionfilter\\validatorsandexceptionfilter\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD1481D-F791-4D04-A741-80CD86D33D54}|ValidatorsAndExceptionFilter\\ValidatorsAndExceptionFilter.csproj|solutionrelative:validatorsandexceptionfilter\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD1481D-F791-4D04-A741-80CD86D33D54}|ValidatorsAndExceptionFilter\\ValidatorsAndExceptionFilter.csproj|c:\\users\\chetanmundle\\source\\repos\\validatorsandexceptionfilter\\validatorsandexceptionfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD1481D-F791-4D04-A741-80CD86D33D54}|ValidatorsAndExceptionFilter\\ValidatorsAndExceptionFilter.csproj|solutionrelative:validatorsandexceptionfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915514C8-0B84-4D8E-835A-4F5D8F978FB3}|Infrastructure\\Infrastructure.csproj|c:\\users\\chetanmundle\\source\\repos\\validatorsandexceptionfilter\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915514C8-0B84-4D8E-835A-4F5D8F978FB3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\chetanmundle\\source\\repos\\ValidatorsAndExceptionFilter\\ValidatorsAndExceptionFilter\\appsettings.json",
+              "RelativeDocumentMoniker": "ValidatorsAndExceptionFilter\\appsettings.json",
+              "ToolTip": "C:\\Users\\chetanmundle\\source\\repos\\ValidatorsAndExceptionFilter\\ValidatorsAndExceptionFilter\\appsettings.json",
+              "RelativeToolTip": "ValidatorsAndExceptionFilter\\appsettings.json",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T08:33:56.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppExceptionFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\chetanmundle\\source\\repos\\ValidatorsAndExceptionFilter\\ValidatorsAndExceptionFilter\\Filters\\AppExceptionFilterAttribute.cs",
+              "RelativeDocumentMoniker": "ValidatorsAndExceptionFilter\\Filters\\AppExceptionFilterAttribute.cs",
+              "ToolTip": "C:\\Users\\chetanmundle\\source\\repos\\ValidatorsAndExceptionFilter\\ValidatorsAndExceptionFilter\\Filters\\AppExceptionFilterAttribute.cs",
+              "RelativeToolTip": "ValidatorsAndExceptionFilter\\Filters\\AppExceptionFilterAttribute.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T04:11:17.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\chetanmundle\\source\\repos\\ValidatorsAndExceptionFilter\\Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\chetanmundle\\source\\repos\\ValidatorsAndExceptionFilter\\Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T04:04:55.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\chetanmundle\\source\\repos\\ValidatorsAndExceptionFilter\\ValidatorsAndExceptionFilter\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ValidatorsAndExceptionFilter\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\chetanmundle\\source\\repos\\ValidatorsAndExceptionFilter\\ValidatorsAndExceptionFilter\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ValidatorsAndExceptionFilter\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowBkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T04:08:16.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chetanmundle\\source\\repos\\ValidatorsAndExceptionFilter\\ValidatorsAndExceptionFilter\\Program.cs",
+              "RelativeDocumentMoniker": "ValidatorsAndExceptionFilter\\Program.cs",
+              "ToolTip": "C:\\Users\\chetanmundle\\source\\repos\\ValidatorsAndExceptionFilter\\ValidatorsAndExceptionFilter\\Program.cs",
+              "RelativeToolTip": "ValidatorsAndExceptionFilter\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwCEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T04:12:47.432Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
