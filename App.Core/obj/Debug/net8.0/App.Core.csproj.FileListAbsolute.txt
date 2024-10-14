@@ -1,0 +1,15 @@
+C:\Users\chetanmundle\source\repos\CQRS_MediatR_Relationship\App.Core\bin\Debug\net8.0\App.Core.deps.json
+C:\Users\chetanmundle\source\repos\CQRS_MediatR_Relationship\App.Core\bin\Debug\net8.0\App.Core.dll
+C:\Users\chetanmundle\source\repos\CQRS_MediatR_Relationship\App.Core\bin\Debug\net8.0\App.Core.pdb
+C:\Users\chetanmundle\source\repos\CQRS_MediatR_Relationship\App.Core\obj\Debug\net8.0\App.Core.csproj.AssemblyReference.cache
+C:\Users\chetanmundle\source\repos\CQRS_MediatR_Relationship\App.Core\obj\Debug\net8.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chetanmundle\source\repos\CQRS_MediatR_Relationship\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfoInputs.cache
+C:\Users\chetanmundle\source\repos\CQRS_MediatR_Relationship\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfo.cs
+C:\Users\chetanmundle\source\repos\CQRS_MediatR_Relationship\App.Core\obj\Debug\net8.0\App.Core.csproj.CoreCompileInputs.cache
+C:\Users\chetanmundle\source\repos\CQRS_MediatR_Relationship\App.Core\obj\Debug\net8.0\App.Core.dll
+C:\Users\chetanmundle\source\repos\CQRS_MediatR_Relationship\App.Core\obj\Debug\net8.0\refint\App.Core.dll
+C:\Users\chetanmundle\source\repos\CQRS_MediatR_Relationship\App.Core\obj\Debug\net8.0\App.Core.pdb
+C:\Users\chetanmundle\source\repos\CQRS_MediatR_Relationship\App.Core\obj\Debug\net8.0\ref\App.Core.dll
+C:\Users\chetanmundle\source\repos\CQRS_MediatR_Relationship\App.Core\bin\Debug\net8.0\Domain.dll
+C:\Users\chetanmundle\source\repos\CQRS_MediatR_Relationship\App.Core\bin\Debug\net8.0\Domain.pdb
+C:\Users\chetanmundle\source\repos\CQRS_MediatR_Relationship\App.Core\obj\Debug\net8.0\App.Core.csproj.Up2Date

@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "CQRS_MediatR_Relationship.Controllers.EmployeeController",
+    "Method": "SaveEmployee",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empDto",
+        "Type": "App.Core.Models.EmployeeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CQRS_MediatR_Relationship.Controllers.EmployeeController",
+    "Method": "DeleteEmployeeByID",
+    "RelativePath": "api/Employee/{id}/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CQRS_MediatR_Relationship.Controllers.EmployeeController",
+    "Method": "GetAllEmployee",
+    "RelativePath": "api/Employee/all/GetAllEmployee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CQRS_MediatR_Relationship.Controllers.EmployeeController",
+    "Method": "GetStudentByIdAsync",
+    "RelativePath": "api/Employee/GetStudentById/{id}/get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CQRS_MediatR_Relationship.Controllers.EmployeeController",
+    "Method": "UpdateEmployee",
+    "RelativePath": "api/Employee/UpdateEmployee/put",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeDto",
+        "Type": "App.Core.Models.EmployeeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
