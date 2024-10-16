@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Visual Studio\\Asp.NetCore\\ImageUpload\\ImageUpload\\wwwroot\\Images\\a18cdda1-25ce-4fc1-9642-aeb6e4d4bb76.jpg",
+      "PackagePath": "staticwebassets\\Images\\a18cdda1-25ce-4fc1-9642-aeb6e4d4bb76.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio\\Asp.NetCore\\ImageUpload\\ImageUpload\\wwwroot\\Images\\e11857bf-45cc-4b0a-859f-0310badf391e.png",
+      "PackagePath": "staticwebassets\\Images\\e11857bf-45cc-4b0a-859f-0310badf391e.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ImageUpload.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ImageUpload.props",
+      "PackagePath": "build\\ImageUpload.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ImageUpload.props",
+      "PackagePath": "buildMultiTargeting\\ImageUpload.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ImageUpload.props",
+      "PackagePath": "buildTransitive\\ImageUpload.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

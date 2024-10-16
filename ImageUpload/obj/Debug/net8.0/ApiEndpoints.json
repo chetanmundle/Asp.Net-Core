@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ImageUpload.Controllers.ImageController",
+    "Method": "UploadFile",
+    "RelativePath": "api/Image/UploadFile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
